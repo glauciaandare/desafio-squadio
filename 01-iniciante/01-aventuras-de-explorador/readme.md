@@ -1,4 +1,8 @@
 # Desafio - Squadio
+
+## Iniciante 
+
+## - Aventura de Explorador
 Você é um intrépido explorador em uma jornada por uma terra desconhecida repleta de desafios emocionantes. Ao se deparar com uma floresta misteriosa, você percebe que a única maneira de atravessá-la é desvendando seus caminhos por meio de um código em Python. Prepare-se para a "Aventura do Explorador"!
 
 ## Entrada
@@ -10,11 +14,10 @@ O programa deve imprimir uma mensagem indicando o progresso do explorador na flo
 ## Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-Entrada	Saída
-2
-
-Explorador: 1 passo
-Explorador: 2 passos
+| Entrada |	Saída |
+|---------|-------|
+|   2     | Explorador: 1 passo |
+          | Explorador: 2 passos | 
 
 3
 
